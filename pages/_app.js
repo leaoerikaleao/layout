@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/styles.css'
+import '../css/globals.css'
 
 const MyApp = ({ Component, pageProps }) => {
     return (
