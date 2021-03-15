@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import '../css/globals.css'
+import React from 'react'
+import '../css/styles.css'
 
 const MyApp = ({ Component, pageProps }) => {
     return (
@@ -7,6 +7,7 @@ const MyApp = ({ Component, pageProps }) => {
             <Component {...pageProps} />
         </div>
     )
+
 }
 
 export default MyApp
