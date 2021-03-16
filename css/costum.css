@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat&family=Quicksand:wght@500&display=swap');
+
+/* 
+font-family: 'Courgette', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Quicksand', sans-serif;
+*/
+
+h1{
+    font-family: 'Courgette', cursive;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+}
