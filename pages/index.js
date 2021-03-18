@@ -4,14 +4,14 @@ const Index = () => {
     return (
         <div>
             <div className="p-5">
-                <h1 className="text-3xl m-5 ">Container</h1>
+                <h1 className="text-2xl m-5 ">Container</h1>
                 <div className="container bg-red text-white p-5 mx-auto border-2 border-red-dark">
                     <p>Eu sou um Container! Possuo tamanho fixo e incluo outros elementos como este texto. </p>
                 </div>
             </div>
 
             <div className="p-5">
-                <h1 className="text-3xl m-5  ">
+                <h1 className="text-2xl m-5  ">
                     Border-box e Box-content
                 </h1>
 
@@ -25,7 +25,7 @@ const Index = () => {
             </div>
 
             <div className="p-5">
-                <h1 className="text-3xl m-5 ">
+                <h1 className="text-2xl m-5 ">
                     Display Inline
                 </h1>
 
@@ -39,7 +39,7 @@ const Index = () => {
             </div>
 
             <div className="p-5">
-                <h1 className="text-3xl m-5 ">
+                <h1 className="text-2xl m-5 ">
                     Display Block
                 </h1>
 
@@ -53,7 +53,7 @@ const Index = () => {
             </div>
 
             <div className="p-5">
-                <h1 className="text-3xl m-5 ">
+                <h1 className="text-2xl m-5 ">
                     Display Hidden - Eu escondo o elemento
                 </h1>
 
@@ -63,7 +63,7 @@ const Index = () => {
             </div>
 
             <div className="p-5">
-                <h1 className="text-3xl m-5">
+                <h1 className="text-2xl m-5">
                     Overflow Hidden
                 </h1>
 
@@ -76,7 +76,7 @@ const Index = () => {
             </div>
 
             <div className="p-5">
-                <h1 className="text-3xl m-5">
+                <h1 className="text-2xl m-5">
                     Overflow Auto
                 </h1>
 
@@ -89,7 +89,7 @@ const Index = () => {
             </div>
 
             <div className="p-5">
-                <h1 className="text-3xl m-5">
+                <h1 className="text-2xl m-5">
                     Overflow X Auto
                 </h1>
 
@@ -100,7 +100,7 @@ const Index = () => {
             </div>
 
             <div className="container block p-5">
-                <h1 className="text-3xl m-5">
+                <h1 className="text-2xl m-5">
                     Z Index - Eu faço sobreposição de elementos
                 </h1>
 
