@@ -23,7 +23,7 @@ const Grid = () => {
             </div>
 
             <div className="py-5">
-                <h2 className="text-xl py-2">Grid-cols-x - controlar o tamanho da coluna</h2>
+                <h2 className="text-xl py-2">Grid-cols-x - controlar o número de colunas</h2>
                 <div className="grid grid-cols-6 ">
                     <div className="col-span-1 bg-yellow">
                         <ul>
@@ -78,8 +78,8 @@ const Grid = () => {
                 </div>
             </div>
             <div className="py-5">
-                <h2 className="text-xl py-2">Grid-rows-x - controlar o tamanho da linhas</h2>
-                <div className="grid grid-rows-4 grid-flow-col">
+                <h2 className="text-xl py-2">Grid-rows-x - controlar o número de linhas</h2>
+                <div className="grid grid-rows-3 grid-flow-col">
                     <div className="bg-green">1</div>
                     <div className="bg-green-light">2</div>
                     <div className="bg-green">3</div>
@@ -88,6 +88,19 @@ const Grid = () => {
                     <div className="bg-green-light">6</div>
                     <div className="bg-green">7</div>
                     <div className="bg-green-light">8</div>
+                </div>
+            </div>
+            <div className="py-5">
+                <h2 className="text-xl py-2">Gap-x - controlar o espaço entre linhas e colunas</h2>
+                <div className="grid grid-cols-3 gap-2">
+                    <div className="bg-red">1</div>
+                    <div className="bg-red-light">2</div>
+                    <div className="bg-red">3</div>
+                    <div className="bg-red-light">4</div>
+                    <div className="bg-red">5</div>
+                    <div className="bg-red-light">6</div>
+                    <div className="bg-red">7</div>
+                    <div className="bg-red-light">8</div>
                 </div>
             </div>
         </div>
