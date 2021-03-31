@@ -1,20 +1,25 @@
-# Layout
+<h1>Layout</h1>
   [Demo](https://layout-leaoerikaleao.vercel.app/)
   
- Elementos para construção de Layout
+ Elementos para construção de Layouts
 
-[![HitCount](http://hits.dwyl.com/leaoerikaleao/layout.svg)](http://hits.dwyl.com/leaoerikaleao/layout)
 
-## Rodar o projeto
+<h1>Rodar o projeto</h1>
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Desenvolvido com:
-* NextJS - Framework React
-* TailwindCSS - Framework CSS 
+<h1> Desenvolvido com:</h1>
+<a href="https://nextjs.org/">
+  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
+
+<a href="https://tailwindcss.com/docs">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+</a>
 
 
-## Licença MIT
+<h1>Licença MIT</h1>

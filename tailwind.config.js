@@ -30,7 +30,11 @@ module.exports = {
         light: '#7D807D',
         DEFAULT: '#505150',
         dark: '#252625'
+      },
+      dark: {
+        DEFAULT: '#1d1f21'
       }
+
     }
   },
   variants: {

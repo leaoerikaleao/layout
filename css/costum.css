@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat&family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Quicksand&family=Ubuntu&display=swap');
 
 /* 
-font-family: 'Courgette', cursive;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Quicksand', sans-serif;
+font-family: 'Ubuntu', sans-serif;
 */
 
 h1{
@@ -12,4 +12,8 @@ h1{
 
 p{
     font-family: 'Quicksand', sans-serif;
+}
+
+code p {
+    font-family: 'Ubuntu', sans-serif;
 }
