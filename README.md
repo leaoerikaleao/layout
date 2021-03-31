@@ -1,7 +1,7 @@
 <h1>Layout</h1>
-  [Demo](https://layout-leaoerikaleao.vercel.app/)
   
- Elementos para construção de Layouts
+ Elementos para construção de Layouts - <a href="(https://layout-leaoerikaleao.vercel.app/">Demo </a> )
+  
 
 
 <h1>Rodar o projeto</h1>
@@ -20,8 +20,6 @@ npm run dev
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 </a>
-
-<br/><br/>
 
 <h1>Licença:</h1>
 <img alt="Licença MIT" src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" />
