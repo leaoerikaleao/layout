@@ -22,4 +22,4 @@ npm run dev
 </a>
 
 
-<h1>Licença MIT</h1>
+<img alt="Licença MIT" src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" />
