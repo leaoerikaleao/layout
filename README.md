@@ -18,7 +18,6 @@ npm run dev
 
 <a href="https://tailwindcss.com/docs">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
 </a>
 
 <h2>Licença:</h2>
